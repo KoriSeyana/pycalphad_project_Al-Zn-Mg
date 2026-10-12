@@ -17,3 +17,18 @@ logs/
 *.bak
 data/*
 !data/COST507.pycalphad.tdb
+
+# Private or user-provided files
+.env*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+examples/*
+!examples/sample_input.xlsx
+*.xlsx
+*.xls
+!examples/sample_input.xlsx
+*.joblib
