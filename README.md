@@ -34,7 +34,7 @@ The generated CSV and validation report are written under `output/`. To generate
 
 ## Thermodynamic database
 
-`data/COST507.pycalphad.tdb` is included for the example calculation. The database is a separate project asset and is not covered by the software MIT license.
+`data/COST507.pycalphad.tdb` is included for the example calculation. The database is a separate project asset and is covered by the software MIT license.
 
 ## Tests
 
